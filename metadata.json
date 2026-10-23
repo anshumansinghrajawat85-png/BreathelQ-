@@ -1,0 +1,6 @@
+{
+  "name": "AirPredict AI",
+  "description": "AI/ML-Based Air Quality Forecasting, Environmental Intelligence, IoT Monitoring and Geospatial Pollution Analysis Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
